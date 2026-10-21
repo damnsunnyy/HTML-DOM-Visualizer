@@ -1,5 +1,7 @@
 # HTML DOM Tree Visualizer
 
+**Live demo:** [https://damnsunnyy.github.io/HTML-DOM-Visualizer/](https://damnsunnyy.github.io/HTML-DOM-Visualizer/)
+
 A powerful web application that parses HTML code and visualizes the resulting DOM tree structure in real-time. Built with vanilla JavaScript, featuring a developer-tool-style interface.
 
 ## Features
